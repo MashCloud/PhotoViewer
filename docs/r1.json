@@ -1,0 +1,16 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#drives/$entity",
+  "driveType": "personal",
+  "id": "f1f258cf4602501e",
+  "owner": {
+    "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" }
+  },
+  "quota": {
+    "deleted": 0,
+    "remaining": 3543348019,
+    "state": "normal",
+    "total": 5368709120,
+    "used": 1825361101,
+    "storagePlanInformation": { "upgradeAvailable": true }
+  }
+}

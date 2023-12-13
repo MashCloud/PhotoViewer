@@ -1,0 +1,161 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('photoapp2023%40outlook.com')/drive/root/children",
+  "@odata.count": 5,
+  "value": [
+    {
+      "createdDateTime": "2023-12-11T06:57:57.33Z",
+      "cTag": "adDpGMUYyNThDRjQ2MDI1MDFFITEwMy42MzgzNzg3NDY3NzMzMDAwMDA",
+      "eTag": "aRjFGMjU4Q0Y0NjAyNTAxRSExMDMuMA",
+      "id": "F1F258CF4602501E!103",
+      "lastModifiedDateTime": "2023-12-11T06:57:57.33Z",
+      "name": "Documents",
+      "size": 0,
+      "webUrl": "https://1drv.ms/f/s!AB5QAkbPWPLxZw",
+      "reactions": { "commentCount": 0 },
+      "createdBy": {
+        "application": { "displayName": "OneDrive", "id": "481710a4" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" }
+      },
+      "lastModifiedBy": {
+        "application": { "displayName": "OneDrive", "id": "481710a4" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" }
+      },
+      "parentReference": {
+        "driveId": "f1f258cf4602501e",
+        "driveType": "personal",
+        "id": "F1F258CF4602501E!101",
+        "path": "/drive/root:"
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2023-12-11T06:57:57.33Z",
+        "lastModifiedDateTime": "2023-12-11T06:57:57.33Z"
+      },
+      "folder": {
+        "childCount": 0,
+        "view": {
+          "viewType": "thumbnails",
+          "sortBy": "name",
+          "sortOrder": "ascending"
+        }
+      },
+      "specialFolder": { "name": "documents" }
+    },
+    {
+      "createdDateTime": "2023-12-11T11:16:04.06Z",
+      "cTag": "adDpGMUYyNThDRjQ2MDI1MDFFITEzMC42MzgzNzkwMzc3MDcyMzAwMDA",
+      "eTag": "aRjFGMjU4Q0Y0NjAyNTAxRSExMzAuMQ",
+      "id": "F1F258CF4602501E!130",
+      "lastModifiedDateTime": "2023-12-11T15:02:50.723Z",
+      "name": "Photos",
+      "size": 1945017686,
+      "webUrl": "https://1drv.ms/f/s!AB5QAkbPWPLxgQI",
+      "reactions": { "commentCount": 0 },
+      "createdBy": {
+        "application": { "displayName": "MSOffice15", "id": "480728c5" },
+        "device": { "id": "1880098d2c9226" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" },
+        "oneDriveSync": {
+          "@odata.type": "#microsoft.graph.identity",
+          "id": "466e3670-43b4-4f13-a5b0-ffff10000000"
+        }
+      },
+      "lastModifiedBy": {
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" }
+      },
+      "parentReference": {
+        "driveId": "f1f258cf4602501e",
+        "driveType": "personal",
+        "id": "F1F258CF4602501E!101",
+        "path": "/drive/root:"
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2023-12-11T11:16:04.06Z",
+        "lastModifiedDateTime": "2023-12-11T03:46:54Z"
+      },
+      "folder": {
+        "childCount": 1,
+        "view": {
+          "viewType": "thumbnails",
+          "sortBy": "takenOrCreatedDateTime",
+          "sortOrder": "ascending"
+        }
+      }
+    },
+    {
+      "createdDateTime": "2023-12-11T06:57:57.41Z",
+      "cTag": "adDpGMUYyNThDRjQ2MDI1MDFFITEwNC42MzgzNzg5MDE4OTg1MzAwMDA",
+      "eTag": "aRjFGMjU4Q0Y0NjAyNTAxRSExMDQuMA",
+      "id": "F1F258CF4602501E!104",
+      "lastModifiedDateTime": "2023-12-11T11:16:29.853Z",
+      "name": "Pictures",
+      "size": 11173603,
+      "webUrl": "https://1drv.ms/f/s!AB5QAkbPWPLxaA",
+      "reactions": { "commentCount": 0 },
+      "createdBy": {
+        "application": { "displayName": "OneDrive", "id": "481710a4" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" }
+      },
+      "lastModifiedBy": {
+        "application": { "displayName": "OneDrive", "id": "481710a4" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" }
+      },
+      "parentReference": {
+        "driveId": "f1f258cf4602501e",
+        "driveType": "personal",
+        "id": "F1F258CF4602501E!101",
+        "path": "/drive/root:"
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2023-12-11T06:57:57.41Z",
+        "lastModifiedDateTime": "2023-12-11T06:57:57.41Z"
+      },
+      "folder": {
+        "childCount": 4,
+        "view": {
+          "viewType": "thumbnails",
+          "sortBy": "takenOrCreatedDateTime",
+          "sortOrder": "ascending"
+        }
+      },
+      "specialFolder": { "name": "photos" }
+    },
+    {
+      "@microsoft.graph.downloadUrl": "https://public.bn.files.1drv.com/y4mCWYEpG_D18TyU7zCzqPOK_o1muSej8YEmaPValR9FuiYNGcZGAKdXpbmqSFJcmXSK0I8VVXdOyYrn2SBJarj0yaaAcy6K-IKkhK7lGMxF90AIr6PYjEJf8ZsukASKQmo1OJLqu_jbj8iYb-OBuGJImODPxAIX8TP2Yd4ucS-ZD9u16ngXR7xcTZblhH2wqTAWw9jw23K4WPzbtEzpS842cg2sxuvibAzEGUCGhD_mYO5DCust7Qj5UpW4iofmThl",
+      "createdDateTime": "2023-12-11T06:57:57.24Z",
+      "cTag": "aYzpGMUYyNThDRjQ2MDI1MDFFITEwMi4yNTc",
+      "eTag": "aRjFGMjU4Q0Y0NjAyNTAxRSExMDIuMw",
+      "id": "F1F258CF4602501E!102",
+      "lastModifiedDateTime": "2023-12-11T07:05:56.327Z",
+      "name": "Getting started with OneDrive.pdf",
+      "size": 1053417,
+      "webUrl": "https://1drv.ms/b/s!AB5QAkbPWPLxZg",
+      "reactions": { "commentCount": 0 },
+      "createdBy": {
+        "application": { "displayName": "OneDrive", "id": "481710a4" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" }
+      },
+      "lastModifiedBy": {
+        "application": { "displayName": "OneDrive", "id": "481710a4" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" }
+      },
+      "parentReference": {
+        "driveId": "f1f258cf4602501e",
+        "driveType": "personal",
+        "id": "F1F258CF4602501E!101",
+        "path": "/drive/root:"
+      },
+      "file": {
+        "mimeType": "application/pdf",
+        "hashes": {
+          "quickXorHash": "uSkB7tg/Gnjxt0Nkvy4NUc+eIBc=",
+          "sha1Hash": "25F731E3108CF95B76079A34D63867DC659D4C8B",
+          "sha256Hash": "271415A6D9A99A40F82286F41F425CDE9E195FF1EFF681D37385B5729DD254FC"
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2023-12-11T06:57:57.24Z",
+        "lastModifiedDateTime": "2023-12-11T06:57:57.24Z"
+      }
+    }
+  ]
+}

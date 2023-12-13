@@ -1,0 +1,56 @@
+{
+      "@microsoft.graph.downloadUrl": "https://public.bn.files.1drv.com/y4mdxOk_1zBioOPoDgUn-tn0UCWWWhYl6YehBTXQDK-wQlePtah11x09wazhGndMp-F7paRT7LsV7w7EQ2aJYldGSvS21gkAb04QQxokg_7QT27eTMHSrcsJ56p3CbA1W9ceds2puVvYMbfWg0zFqABN65x5zLjbY8r2ukXyMHePORrlj5rq0QDS_37bg6sx1on-Bl2n17UzAArbN0sSbIuut0n8XGL4jjuwxBO8qGbVWVocsaNSkmeuHwIRT7SNQA0",
+      "createdDateTime": "2023-12-11T14:26:03.15Z",
+      "cTag": "aYzpGMUYyNThDRjQ2MDI1MDFFITYzNS4yNTc",
+      "eTag": "aRjFGMjU4Q0Y0NjAyNTAxRSE2MzUuMw",
+      "id": "F1F258CF4602501E!635",
+      "lastModifiedDateTime": "2023-12-11T14:42:26.56Z",
+      "name": "FromDash 037.jpg",
+      "size": 397514,
+      "webUrl": "https://1drv.ms/i/s!AB5QAkbPWPLxhHs",
+      "reactions": { "commentCount": 0 },
+      "createdBy": {
+        "application": { "displayName": "MSOffice15", "id": "480728c5" },
+        "device": { "id": "1880098d2c9226" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" },
+        "oneDriveSync": {
+          "@odata.type": "#microsoft.graph.identity",
+          "id": "466e3670-43b4-4f13-a5b0-ffff0b020000"
+        }
+      },
+      "lastModifiedBy": {
+        "application": { "displayName": "MSOffice15", "id": "480728c5" },
+        "device": { "id": "1880098d2c9226" },
+        "user": { "displayName": "John Artist", "id": "f1f258cf4602501e" },
+        "oneDriveSync": {
+          "@odata.type": "#microsoft.graph.identity",
+          "id": "466e3670-43b4-4f13-a5b0-ffff0b020000"
+        }
+      },
+      "parentReference": {
+        "driveId": "f1f258cf4602501e",
+        "driveType": "personal",
+        "id": "F1F258CF4602501E!132",
+        "name": "Folder1",
+        "path": "/drive/root:/Photos/PhotoViewer/Folder1"
+      },
+      "file": {
+        "mimeType": "image/jpeg",
+        "hashes": {
+          "quickXorHash": "StLfzwyqJ9UZ3p65n2qpf7dfeGU=",
+          "sha1Hash": "D625062BAB1A79AB6B2EE66CE7D17225195978DA",
+          "sha256Hash": "4D817E7C87BA20D82CD90A3831468370149AFE6CDAEADF5887E9DAB313B43A3F"
+        }
+      },
+      "fileSystemInfo": {
+        "createdDateTime": "2023-12-11T14:26:03.15Z",
+        "lastModifiedDateTime": "2023-07-28T20:43:42Z"
+      },
+      "image": { "height": 1024, "width": 1280 },
+      "photo": {
+        "cameraMake": "T-Mobile Dash",
+        "cameraModel": "model_test",
+        "orientation": 1,
+        "takenDateTime": "2008-05-31T19:49:07Z"
+      }
+    },
