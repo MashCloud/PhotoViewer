@@ -1,0 +1,29 @@
+
+photoapp2023@outlook.com
+JohnGreat12#$
+-----------------
+https://jimhphoto.com/index.php/2020/11/13/onedrive-for-photo-backup-iptc-in-the-cloud/
+--------------
+C:\Users\MS\John\OneDrive\Photos\PhotoViewer
+--------------------------------
+
+https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationMenuBlade/~/Overview/quickStartType~/null/sourceType/Microsoft_AAD_IAM/appId/7fa8f53c-edfd-4d77-a38e-1d62ece87b9c/objectId/61b76825-c213-41c6-9a1f-acab1b105a36/isMSAApp~/true/defaultBlade/Overview/appSignInAudience/PersonalMicrosoftAccount
+Display name
+PhotApp
+Application (client) ID
+7fa8f53c-edfd-4d77-a38e-1d62ece87b9c
+Object ID
+61b76825-c213-41c6-9a1f-acab1b105a36
+Directory (tenant) ID
+f8cdef31-a31e-4b4a-93e4-5f571e91255a
+Supported account types
+Personal Microsoft account users
+Client credentials
+Add a certificate or secret
+Redirect URIs
+0 web, 0 spa, 1 public client
+Application ID URI
+Add an Application ID URI
+
+TUT
+https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationMenuBlade/~/Quickstart/quickStartType~/null/sourceType/Microsoft_AAD_IAM/appId/7fa8f53c-edfd-4d77-a38e-1d62ece87b9c/objectId/61b76825-c213-41c6-9a1f-acab1b105a36/isMSAApp~/true/defaultBlade/Overview/appSignInAudience/PersonalMicrosoftAccount
