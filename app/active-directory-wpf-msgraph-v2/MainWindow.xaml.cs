@@ -30,7 +30,7 @@ namespace active_directory_wpf_msgraph_v2
         //file: response-img005
         //string apiUrlMyDriveFolder1 = "https://graph.microsoft.com/v1.0/me/drive/search(q='img005')";
         //file: response-img005
-        string apiUrlMyDriveFolder1 = "https://graph.microsoft.com/v1.0/me/drive/search(q='model_test')";
+        string apiUrlMyDriveFolder1 = "https://graph.microsoft.com/v1.0/me/drive/search(q='sun')";
 
 
         //string apiUrlRootChildren = "https://graph.microsoft.com/v1.0/me/drive/root/children";
@@ -112,10 +112,10 @@ namespace active_directory_wpf_msgraph_v2
                 //search
                 File.WriteAllText(@"C:\data\response-token.json", "Bearer "+authResult.AccessToken);
 
-                String s = await PostHttpContentWithToken(postQueryUrl, authResult.AccessToken,new { });
+                String s = await GetHttpContentWithToken(apiUrlMyDriveFolder1, authResult.AccessToken);
                 Console.WriteLine(s);
                 ResultText.Text = s;
-                File.WriteAllText(@"C:\data\response-post.json", s);
+                File.WriteAllText(@"C:\data\one-drive-search.json", s);
 
                 DisplayBasicTokenInfo(authResult);
                 this.SignOutButton.Visibility = Visibility.Visible;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DropboxApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47a95c29e24979a603b3f5b21517b88d35661aa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DropboxApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DropboxApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
