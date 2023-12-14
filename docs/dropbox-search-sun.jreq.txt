@@ -1,0 +1,24 @@
+
+https://www.dropbox.com/developers/documentation/http/documentation
+
+https://api.dropboxapi.com/2/files/search_v2
+
+
+
+Authorization:Bearer sl.BrtztcY3kAtb5YpAaZ9DE1GpwnAhrCLurcqOL57RxcH6gljgO5tk6FYVNBwhISBvnwdMw4AqgF9LDtvXVAHg7JN0stfYJrj66xVT4uqYg4YGv-LISyD1F4s_ZYiMV-mqgLs3dER3gVIRqSwBGIdc 
+Content-Type:application/json
+
+
+
+{
+    "match_field_options": {
+        "include_highlights": false
+    },
+    "options": {
+        "file_status": "active",
+        "filename_only": false,
+        "max_results": 300,
+        "path": "/"
+    },
+    "query": "sun"
+}
