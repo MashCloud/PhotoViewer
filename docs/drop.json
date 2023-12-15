@@ -1,0 +1,15 @@
+POST https: //graph.microsoft.com/v1.0/me/drive/search/query
+Content-Type: application/json
+
+{
+    "requests": [
+        {
+            "entityTypes": [
+                "driveItem"
+            ],
+            "query": {
+                "queryString": "contoso"
+            }
+        }
+    ]
+}
